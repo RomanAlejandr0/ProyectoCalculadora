@@ -1,0 +1,39 @@
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.exe
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.deps.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.dev.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csprojAssemblyReference.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfoInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfo.cs
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csproj.CoreCompileInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Primer programa\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.genruntimeconfig.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.exe
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.deps.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.dev.json
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csprojAssemblyReference.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfoInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfo.cs
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csproj.CoreCompileInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\CHARMANDER\visual studio proyectos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.genruntimeconfig.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.exe
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.deps.json
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.json
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.runtimeconfig.dev.json
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\bin\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csprojAssemblyReference.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfoInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.AssemblyInfo.cs
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.csproj.CoreCompileInputs.cache
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.dll
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.pdb
+C:\Users\ING. VICTOR GARCIA\Desktop\visual studio proyectos muy sencillos\Calculadora\Primer programa\obj\Debug\netcoreapp3.1\Primer programa.genruntimeconfig.cache
